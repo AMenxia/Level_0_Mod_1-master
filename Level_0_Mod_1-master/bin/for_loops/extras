@@ -6,3 +6,7 @@
 					*4 At the end of the loop, display who got the most votes and who will inherit everything in existence!
 					
 2. Use a for-loop to print all the lyrics to "99 Bottles of Milk on the Wall".
+public class Quiz {
+	public static void main(String[] args){
+	
+	}}
