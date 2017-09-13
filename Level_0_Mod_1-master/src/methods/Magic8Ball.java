@@ -4,7 +4,7 @@ import java.util.Random;
 
 import javax.swing.JOptionPane;
 
-import org.omg.CORBA.SystemException;
+
 
 public class Magic8Ball {
 
@@ -19,7 +19,7 @@ int randomnumber = number.nextInt(3);
 System.out.println(number);
 
     // 4. Get the user to enter a questioan for the 8 ball
-String input = JOptionPane.showInputDialog("Ask a question!");
+
     // 5. If the random number is 0
  if (randomnumber == 0){
  System.out.println("yes");
